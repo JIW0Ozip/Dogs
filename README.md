@@ -78,6 +78,26 @@ ORM: MyBatis
 
 # 📌 주요 기능 (수정 필요)
 (이미지 및 텍스트 추가 예정)
+![1](https://github.com/user-attachments/assets/9a3767af-7973-4d14-a65d-90de2b76ac7b)
+![2](https://github.com/user-attachments/assets/702d5139-f76b-4ba9-b46d-5ed53311fd61)
+![3](https://github.com/user-attachments/assets/68c1b919-4ef0-4e32-b93c-4a8970460060)
+![4](https://github.com/user-attachments/assets/8a6113c8-2ef4-4cd3-a25e-1ce3aa32dc62)
+![20](https://github.com/user-attachments/assets/b5e41435-bf2d-4de6-9e94-00325d3fa05c)
+![5](https://github.com/user-attachments/assets/d5141434-c8bf-4246-8ca1-f355308311f0)
+![6](https://github.com/user-attachments/assets/e48fb837-591d-424b-a2c2-94fdad1c5e98)
+![8](https://github.com/user-attachments/assets/7d70d94d-b4b2-46fb-bbeb-48e846b469ec)
+![10](https://github.com/user-attachments/assets/0b1ce629-784e-4f56-be52-31af754fc719)
+![19](https://github.com/user-attachments/assets/1811b972-2b70-49a4-b117-8b9e25fd1e90)
+![12](https://github.com/user-attachments/assets/c96188e6-c1fa-46f2-8435-0058dd26a5ac)
+![11](https://github.com/user-attachments/assets/466c9936-8fb9-4705-8080-0ee6d5ed53d3)
+![13](https://github.com/user-attachments/assets/a3ba3dcd-a681-4e5a-9dd0-c5eb2220c274)
+![14](https://github.com/user-attachments/assets/4a7a526b-280c-4c72-be31-e82d4118feba)
+![15](https://github.com/user-attachments/assets/c23fca10-c21e-4173-b9ec-8b60b178abb6)
+![16](https://github.com/user-attachments/assets/a4060668-244a-4ebf-b21a-aab9ca539243)
+![17](https://github.com/user-attachments/assets/29fdb75b-16c9-477b-a357-21a2f8434cf9)
+![18](https://github.com/user-attachments/assets/6a9a11a5-39e2-4e05-a49e-84d77c452143)
+![21](https://github.com/user-attachments/assets/59073190-6a9c-4b3d-a13c-94467ea9a10e)
+![22](https://github.com/user-attachments/assets/21bc7ad3-4a5e-4208-a636-8084332c0844)
 
 
 # ⛓ DB 다이어그램
