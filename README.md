@@ -80,5 +80,7 @@ ORM: MyBatis
 (이미지 및 텍스트 추가 예정)
 
 
-# ⛓ DB 다이어그램 (수정 필요)
-(이미지 추가 예정)
+# ⛓ DB 다이어그램
+
+![dogsDB1](https://github.com/user-attachments/assets/e0e11783-01fd-4db8-b35b-0e2d4b083a1c)
+![dogsDB2](https://github.com/user-attachments/assets/c7498cfc-1514-44ed-a482-95af4a3480b3)
