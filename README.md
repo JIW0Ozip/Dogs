@@ -76,7 +76,9 @@ ORM: MyBatis
 - 광고 배너 이미지 제작 (photoshop 사용)
 
 
-# 📌 주요 기능
+# 📌 주요 기능 (수정 필요)
+
+(이미지 별 기능 설명 텍스트 추가 필요)
 
 ![1](https://github.com/user-attachments/assets/9a3767af-7973-4d14-a65d-90de2b76ac7b)
 ![2](https://github.com/user-attachments/assets/702d5139-f76b-4ba9-b46d-5ed53311fd61)
