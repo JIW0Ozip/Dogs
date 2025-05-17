@@ -74,6 +74,7 @@ ORM: MyBatis
 
 # 📌 주요 기능
 
+---------
 메인 페이지
 ![1](https://github.com/user-attachments/assets/9a3767af-7973-4d14-a65d-90de2b76ac7b)
 ![2](https://github.com/user-attachments/assets/702d5139-f76b-4ba9-b46d-5ed53311fd61)
